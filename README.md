@@ -1,5 +1,9 @@
 # AI-Driven Appointment Scheduling System for Fanous Clinic
 
+<div style="text-align: center;">
+    <img width="545" alt="MediSchedule.AI" src="https://github.com/MohamedMandour10/AI-Driven-Appointment-Scheduling-System/assets/115044826/f770450b-a3f1-4482-ba13-9da7d1bde90e">
+</div>
+
 ## Abstract
 The primary goal of this research is to develop an intelligent scheduling recommender system for Fanous Clinic, USA, aimed at optimizing the appointment scheduling process based on disease reports generated from the clinic's mobile application. The system recommends the type of visit required, categorizing it as a Primary Care visit alone, with a consultant, with a pharmacist, Urgent, or Pass. The system leverages data from Fanous Clinic to train and evaluate its performance. Our results demonstrate that the model effectively reduces the workload and time required by Primary Care physicians to review patient reports, enabling more efficient and accurate scheduling decisions. 
 
